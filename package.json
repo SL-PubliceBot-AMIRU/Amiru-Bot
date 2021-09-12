@@ -1,0 +1,29 @@
+{
+  "name": "amiru_bot",
+  "version": "2.0.0",
+  "description": "AMIRU BOT.",
+  "main": "./AMIRU BOT/amiru.js",
+  "scripts": {
+    "start": "supervisor -s amiru.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": 
+  },
+  "keywords": [
+    "whatsapp",
+    "amiru",
+    "bot",
+    "amirubot",
+    "bot"
+  ],
+  "author": "Ravindu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kingRavindu/sew/issues"
+  },
+  "homepage": "https://github.com/kingRavindu/sew#readme",
+  "dependencies": {
+    "amiru_bot": "1.0.0"
+  }
+}
